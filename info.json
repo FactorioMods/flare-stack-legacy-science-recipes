@@ -1,0 +1,14 @@
+{
+  "name": "flare-stack-legacy-science-recipes",
+  "version": "1.0.0",
+  "title": "Flare Stack: Legacy Science Recipes",
+  "author": "FactorioMods",
+  "factorio_version": "2.1",
+  "homepage": "https://github.com/FactorioMods/flare-stack-legacy-science-recipes",
+  "description": "Keeps existing science-pack incineration assignments when upgrading to Factorio 2.1 and current Flare Stack.",
+  "dependencies": [
+    "base >= 2.1.24",
+    "Flare Stack >= 4.3.1",
+    "? space-age >= 2.1.24"
+  ]
+}

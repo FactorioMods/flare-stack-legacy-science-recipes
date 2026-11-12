@@ -1,0 +1,5 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2026-11-12
+  Compatibility:
+    - Preserve existing science-pack incineration assignments through native migrations from the former tool recipe names to current item recipe names.
